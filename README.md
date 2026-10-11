@@ -10,7 +10,7 @@ nécessaires pour compiler Glade 3.40.0 depuis les sources avec Meson + Ninja.
 ## Partie 1 — Prérequis
 
 ### Système d'exploitation
-- **Pop!_OS / Ubuntu 22.04 (Jammy)** ou distribution dérivée basée sur Debian.
+- ** Ubuntu 22.04 (Jammy)** ou distribution dérivée basée sur Debian.
 - Les commandes `apt` ci-dessous sont valables pour ces distributions.
 
 ### Outils de build
